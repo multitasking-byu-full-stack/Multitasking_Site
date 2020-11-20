@@ -1,0 +1,13 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+img {
+  max-height: 100%; 
+  max-width: 100%;
+}
+
+.img-container {
+  height: 450px;
+}
