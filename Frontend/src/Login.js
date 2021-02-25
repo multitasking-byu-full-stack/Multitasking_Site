@@ -14,7 +14,6 @@ function Login() {
 
   function handleSubmit(event) {
     event.preventDefault();
-
   }
 
   return (
